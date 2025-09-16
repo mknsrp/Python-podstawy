@@ -1,0 +1,10 @@
+Hej, nazywam się Maciek, na tym repozytorium znajdziesz moją przygodę z podstawami
+języka Python oraz kontrolą wersji Git. Będzie tu wiele skryptów oraz commity będą pomieszane, 
+lecz każdy nastepny projekt będzie posiadał swoje osobne repozytorium, aby wszystko było
+poukładane i przejrzyste.
+
+Mam nadzieję, że swoją konekwencją, projektami i progresem w tym nowym dla mnie "świecie",
+zwrócę uwagę na siebie oraz uda dostać mi się do wymarzonej pracy w branży IT, aby zbierać
+doświadczenie oraz poszerzać swój bagaż umiejętności.
+
+Zapraszam 
