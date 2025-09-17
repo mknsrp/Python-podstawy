@@ -8,3 +8,11 @@ zwrócę uwagę na siebie oraz uda dostać mi się do wymarzonej pracy w branży
 doświadczenie oraz poszerzać swój bagaż umiejętności.
 
 Zapraszam 
+
+
+1 DZIEŃ
+nauczyłem się:
+- jak tworzyć zmienne
+- jak przechowywać string w zmiennej
+- jak działają i jak stworzyć listę
+- jak działa input i jak pobrać dane od użytkownika
