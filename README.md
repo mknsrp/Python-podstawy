@@ -12,7 +12,14 @@ Zapraszam
 
 1 DZIEŃ
 nauczyłem się:
-- jak tworzyć zmienne
-- jak przechowywać string w zmiennej
-- jak działają i jak stworzyć listę
+- tworzyć zmienne
+- przechowywać string w zmiennej
+- działanie i tworzenie list
 - jak działa input i jak pobrać dane od użytkownika
+
+2 DZIEŃ
+nauczyłem się:
+- działanie pętli while
+- używanie metod 
+- jak powtarzalnie pobierać dane od użytkownika
+
