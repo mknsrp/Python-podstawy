@@ -7,12 +7,13 @@ while True:
     match user_action:
         case 'add':
             todo = input("Enter a todo: ")
-            todos.append(todo.capitalize())
+            todos.append(todo)
         case 'show':
             for item in todos:
+                item = item.title()
                 print(item)
         case 'exit':
             break
-print("Bye!")
+print("See ya!")
 
 
