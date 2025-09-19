@@ -23,3 +23,8 @@ nauczyłem się:
 - używanie metod 
 - jak powtarzalnie pobierać dane od użytkownika
 
+3 DZIEŃ
+nauczyłem się:
+- używania i działania pętli for
+- głębszego zastosowania match/case
+
