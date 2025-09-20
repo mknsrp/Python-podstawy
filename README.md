@@ -28,3 +28,9 @@ nauczyłem się:
 - używania i działania pętli for
 - głębszego zastosowania match/case
 
+4 DZIEŃ
+nauczyłem się:
+- co to jest ktotka
+- jak indeksować listy
+- jak zmieniać znaki w ciągu literowym
+- jak zrobić krotkę w krotce 
