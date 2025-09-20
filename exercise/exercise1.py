@@ -15,3 +15,9 @@ while word != "exit":
     mylist.append(word.capitalize())
 
 print(mylist[:-1])
+
+
+# for i in range(0, 10):
+#     if i % 2 == 0:
+#         print(i)
+# print("These numbers are even!")
