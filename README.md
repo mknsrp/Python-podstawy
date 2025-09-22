@@ -34,3 +34,10 @@ nauczyłem się:
 - jak indeksować listy
 - jak zmieniać znaki w ciągu literowym
 - jak zrobić krotkę w krotce 
+
+5 DZIEŃ
+nauczyłem się:
+- jak działa enumerate
+- dlaczego enumerate jest przydatne
+- jak używać f-string
+- nowe metody list
