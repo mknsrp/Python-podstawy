@@ -11,6 +11,7 @@ while True:
         case 'show':
             for index, item in enumerate(todos):
                 print(f"{index + 1}-{item}")
+            print(len(todos))
         case 'edit':
             number = int(input("Number of the todo to edit: "))
             number = number - 1
