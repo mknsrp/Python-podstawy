@@ -41,3 +41,9 @@ nauczyłem się:
 - dlaczego enumerate jest przydatne
 - jak używać f-string
 - nowe metody list
+
+6 DZIEŃ
+nauczyłem się:
+- odczytywanie i zapisywanie w plikach
+- jak wypisywać wielokrotnie zawartość wielu plików
+- przydtane metody do użycia przy plikach aby je formatować
