@@ -47,3 +47,9 @@ nauczyłem się:
   - odczytywanie i zapisywanie w plikach
   - jak wypisywać wielokrotnie zawartość wielu plików
   - przydtane metody do użycia przy plikach aby je formatować
+
+7 DZIEŃ
+nauczyłem się:
+- jak działa list comprehensions
+- po co używać list comprehensions
+- jak komentować kod
