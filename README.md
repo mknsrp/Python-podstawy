@@ -48,7 +48,7 @@ nauczyłem się:
   - jak wypisywać wielokrotnie zawartość wielu plików
   - przydtane metody do użycia przy plikach aby je formatować
 
-7 DZIEŃ
+7️⃣ DZIEŃ
 nauczyłem się:
 - jak działa list comprehensions
 - po co używać list comprehensions
