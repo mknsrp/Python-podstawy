@@ -1,64 +1,62 @@
 while True:
-    # Get user input and remove space chars form it
     user_action = input("Type add, show, edit, complete or exit: ")
     user_action = user_action.strip()
 
-    match user_action:
-        # Check if user action is "add"
-        case 'add':
-            todo = input("Enter a todo: ") + "\n"
 
-            with open('files/todos.txt', 'r') as file:
-                todos = file.readlines()
+    if 'add' in user_action:
+        todo = user_action[4:] + "\n"
 
-            todos.append(todo)
+        with open('files/todos.txt', 'r') as file:
+            todos = file.readlines()
 
-            with open('files/todos.txt', 'w') as file:
-                file.writelines(todos)
+        todos.append(todo)
 
-        # Check if user action is "show"
-        case 'show':
-            with open('files/todos.txt', 'r') as file:
-                todos = file.readlines()
+        with open('files/todos.txt', 'w') as file:
+            file.writelines(todos)
 
-            # new_todos = [item.strip('\n') for item in todos]
+    # Check if user action is "show"
+    if 'show' in user_action:
+        with open('files/todos.txt', 'r') as file:
+            todos = file.readlines()
 
-            for index, item in enumerate(todos):
-                item = item.strip('\n')
-                print(f"{index + 1}-{item}")
+        # new_todos = [item.strip('\n') for item in todos]
 
-        # Check if user action is "edit"
-        case 'edit':
-            number = int(input("Number of the todo to edit: "))
-            number = number - 1
+        for index, item in enumerate(todos):
+            item = item.strip('\n')
+            print(f"{index + 1}-{item}")
 
-            with open('files/todos.txt', 'r') as file:
-                todos = file.readlines()
+    # Check if user action is "edit"
+    if 'edit' in user_action:
+        number = int(input("Number of the todo to edit: "))
+        number = number - 1
 
-            new_todo = input("Enter new todo: ")
-            todos[number] = new_todo + '\n'
+        with open('files/todos.txt', 'r') as file:
+            todos = file.readlines()
 
-            with open('files/todos.txt', 'w') as file:
-                file.writelines(todos)
+        new_todo = input("Enter new todo: ")
+        todos[number] = new_todo + '\n'
 
-        # Check if user action is "complete"
-        case 'complete':
-            number = int(input("Number of the todo to complete: "))
+        with open('files/todos.txt', 'w') as file:
+            file.writelines(todos)
 
-            with open('files/todos.txt', 'r') as file:
-                todos = file.readlines()
-            index = number - 1
-            removed_todo = todos[index].strip('\n')
-            todos.pop(index)
+    # Check if user action is "complete"
+    if 'complete' in user_action:
+        number = int(input("Number of the todo to complete: "))
 
-            with open('files/todos.txt', 'w') as file:
-                file.writelines(todos)
+        with open('files/todos.txt', 'r') as file:
+            todos = file.readlines()
+        index = number - 1
+        removed_todo = todos[index].strip('\n')
+        todos.pop(index)
 
-            message = f"Todo {removed_todo} was removed form the list."
-            print(message)
-        # Check if user action is "exit"
-        case 'exit':
-            break
+        with open('files/todos.txt', 'w') as file:
+            file.writelines(todos)
+
+        message = f"Todo {removed_todo} was removed form the list."
+        print(message)
+    # Check if user action is "exit"
+    if 'exit' in user_action:
+        break
 print("See ya!")
 
 

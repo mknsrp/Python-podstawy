@@ -8,3 +8,5 @@ for content, filename in zip(contents, filenames):
     file = open(f"../bonus6/{filename}", 'w')
     file.write(content)
 
+
+
