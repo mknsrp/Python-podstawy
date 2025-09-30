@@ -53,3 +53,9 @@ nauczyłem się:
 - jak działa list comprehensions
 - po co używać list comprehensions
 - jak komentować kod
+
+8️⃣ DZIEŃ
+nauczyłem się:
+- co to context manager
+- jak wykorzystać context manager
+- kroki w jakich utworzyć utrzymujący sie program(improve, optimise, fix)
