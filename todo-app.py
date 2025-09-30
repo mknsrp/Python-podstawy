@@ -15,7 +15,7 @@ while True:
             file.writelines(todos)
 
     # Check if user action is "show"
-    if 'show' in user_action:
+    elif 'show' in user_action:
         with open('files/todos.txt', 'r') as file:
             todos = file.readlines()
 
@@ -26,8 +26,9 @@ while True:
             print(f"{index + 1}-{item}")
 
     # Check if user action is "edit"
-    if 'edit' in user_action:
-        number = int(input("Number of the todo to edit: "))
+    elif 'edit' in user_action:
+        number = int(user_action[5:])
+        print(number)
         number = number - 1
 
         with open('files/todos.txt', 'r') as file:
@@ -40,8 +41,8 @@ while True:
             file.writelines(todos)
 
     # Check if user action is "complete"
-    if 'complete' in user_action:
-        number = int(input("Number of the todo to complete: "))
+    elif 'complete' in user_action:
+        number = int(user_action[9:])
 
         with open('files/todos.txt', 'r') as file:
             todos = file.readlines()
@@ -55,8 +56,10 @@ while True:
         message = f"Todo {removed_todo} was removed form the list."
         print(message)
     # Check if user action is "exit"
-    if 'exit' in user_action:
+    elif 'exit' in user_action:
         break
+    else:
+        print("Command is not valid.")
 print("See ya!")
 
 
