@@ -23,3 +23,4 @@ while True:
         print("Strong password")
     else:
         print("Weak password")
+

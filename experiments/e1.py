@@ -1,12 +1,16 @@
 # while True:
 #     print("Hello")
 
+#
+# user_prompt = "Enter a todo: "
+#
+# todos = []
+# while True:
+#     todo = input(user_prompt)
+#     print(todo.title())
+#     todos.append(todo)
+#
 
-user_prompt = "Enter a todo: "
 
-todos = []
-while True:
-    todo = input(user_prompt)
-    print(todo.title())
-    todos.append(todo)
-
+fruits = {"banana": 3, "lichi": 5, "coconut": 1}
+print(fruits["banana"])
