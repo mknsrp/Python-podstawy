@@ -59,3 +59,10 @@ nauczyłem się:
 - co to context manager
 - jak wykorzystać context manager
 - kroki w jakich utworzyć utrzymujący sie program(improve, optimise, fix)
+
+9️⃣ DZIEŃ
+nauczyłem się:
+- co to if/else
+- jak wykorzystwać warunki
+- co to słowniki
+- zdobyłem większą wiedzę na temat list slicing
