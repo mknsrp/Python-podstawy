@@ -12,5 +12,10 @@
 #
 
 
-fruits = {"banana": 3, "lichi": 5, "coconut": 1}
-print(fruits["banana"])
+# fruits = {"banana": 3, "lichi": 5, "coconut": 1}
+# print(fruits["banana"])
+try:
+    mylist =[1, 2, 3]
+    print(mylist[3])
+except IndexError:
+    print("Your index is out of range.")
