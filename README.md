@@ -66,3 +66,9 @@ nauczyłem się:
 - jak wykorzystwać warunki
 - co to słowniki
 - zdobyłem większą wiedzę na temat list slicing
+
+🔟 DZIEŃ
+nauczyłem się:
+- co to error handling
+- jak wykorzystać try/except
+- rodzaje błędów w python
