@@ -72,3 +72,9 @@ nauczyłem się:
 - co to error handling
 - jak wykorzystać try/except
 - rodzaje błędów w python
+
+1️⃣1️⃣ DZIEŃ
+nauczyłem się:
+- jak unikać powtarzającego się kodu
+- pisanie customowych funkcji
+- używanie funkcji
