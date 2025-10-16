@@ -1,5 +1,7 @@
 # while True:
 #     print("Hello")
+from pickletools import name2i
+
 
 #
 # user_prompt = "Enter a todo: "
@@ -20,10 +22,10 @@
 # except IndexError:
 #     print("Your index is out of range.")
 
-def greet():
-    message = "Hello"
-    new_message = message.capitalize()
-    return new_message
+def greet(name1, name2):
+    return f"Hi {name1} + {name2}"
 
-greeting = greet()
-print(greeting)
+name1 = 'jacek'
+name2 = 'arek'
+
+
