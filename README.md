@@ -78,3 +78,9 @@ nauczyłem się:
 - jak unikać powtarzającego się kodu
 - pisanie customowych funkcji
 - używanie funkcji
+
+1️⃣2️⃣ DZIEŃ
+nauczyłem się:
+- tworzenie argumentów dla definicji funkcji
+- optymalizacja kodu
+- tworzenie i używanie wielu argumentów dla funkcji
