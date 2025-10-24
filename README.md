@@ -84,3 +84,9 @@ nauczyłem się:
 - tworzenie argumentów dla definicji funkcji
 - optymalizacja kodu
 - tworzenie i używanie wielu argumentów dla funkcji
+
+1️⃣3️⃣ DZIEŃ
+nauczyłem się:
+- jak tworzyć domyślne argumenty
+- co to jest i jak używać docstrings
+- zrozumienie różnicy między argumentami default a non-default
