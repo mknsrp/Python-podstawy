@@ -90,3 +90,10 @@ nauczyłem się:
 - jak tworzyć domyślne argumenty
 - co to jest i jak używać docstrings
 - zrozumienie różnicy między argumentami default a non-default
+
+1️⃣4️⃣ DZIEŃ
+nauczyłem się:
+- co to są lokalne moduły
+- jak imporotować lokalne moduły
+- jak wygląda anatomia pythona
+
