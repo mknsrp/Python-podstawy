@@ -97,3 +97,8 @@ nauczyłem się:
 - jak imporotować lokalne moduły
 - jak wygląda anatomia pythona
 
+1️⃣5️⃣ DZIEŃ
+nauczyłem się:
+- rozumieć podstawowe moduły
+- jak rozpoznać wbduowane a zewnętrzne moduły
+- jak używać git z GUI
