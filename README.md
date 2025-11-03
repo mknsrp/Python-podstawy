@@ -102,3 +102,8 @@ nauczyłem się:
 - rozumieć podstawowe moduły
 - jak rozpoznać wbduowane a zewnętrzne moduły
 - jak używać git z GUI
+
+1️⃣6️⃣ DZIEŃ
+nauczyłem się:
+- instalować zewnętrzne moduły
+- używać FreeSimpleGUI
