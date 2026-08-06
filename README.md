@@ -1,109 +1,78 @@
-Hej 😄, nazywam się Maciek, na tym repozytorium znajdziesz moją przygodę z podstawami
-języka Python 🐍 oraz kontrolą wersji Git. Będzie tu wiele skryptów oraz commity będą pomieszane, 
-lecz każdy nastepny projekt będzie posiadał swoje osobne repozytorium, aby wszystko było
-poukładane i przejrzyste.
+# 🐍 Python Learning Journey
 
-Mam nadzieję, że swoją konekwencją, projektami i progresem w tym nowym dla mnie "świecie",
-zwrócę uwagę na siebie oraz uda dostać mi się do wymarzonej pracy w branży IT, aby zbierać
-doświadczenie oraz poszerzać swój bagaż umiejętności.
+> A collection of my Python learning exercises and Git practice.
 
-Zapraszam 
+---
 
+## 📖 About
 
-1️⃣ DZIEŃ
-nauczyłem się:
-  - tworzyć zmienne
-  - przechowywać string w zmiennej
-  - działanie i tworzenie list
-  - jak działa input i jak pobrać dane od użytkownika
+Hi! I'm Maciek.
 
-2️⃣ DZIEŃ
-nauczyłem się:
-  - działanie pętli while
-  - używanie metod 
-  - jak powtarzalnie pobierać dane od użytkownika
+This repository documents my journey of learning **Python** and **Git** from the ground up. It contains exercises, small scripts, and experiments created while learning new concepts.
 
-3️⃣ DZIEŃ
-nauczyłem się:
-  - używania i działania pętli for
-  - głębszego zastosowania match/case
+As I progress, each larger project will be moved to its own dedicated repository to keep everything organized and easy to navigate.
 
-4️⃣ DZIEŃ
-nauczyłem się:
-  - co to jest ktotka
-  - jak indeksować listy
-  - jak zmieniać znaki w ciągu literowym
-  - jak zrobić krotkę w krotce 
+---
 
-5️⃣ DZIEŃ
-nauczyłem się:
-  - jak działa enumerate
-  - dlaczego enumerate jest przydatne
-  - jak używać f-string
-  - nowe metody list
+## 🚀 What I Learned
 
-6️⃣ DZIEŃ
-nauczyłem się:
-  - odczytywanie i zapisywanie w plikach
-  - jak wypisywać wielokrotnie zawartość wielu plików
-  - przydtane metody do użycia przy plikach aby je formatować
+Throughout this journey, I learned:
 
-7️⃣ DZIEŃ
-nauczyłem się:
-- jak działa list comprehensions
-- po co używać list comprehensions
-- jak komentować kod
+* Variables, `str`, `list`, `tuple`, `dict`, and list slicing.
+* User input with `input()`.
+* Conditional statements: `if/else` and `match/case`.
+* Loops: `while` and `for`.
+* Functions, parameters, default arguments, and `docstrings`.
+* Writing reusable and optimized code.
+* `list comprehensions`, `enumerate()`, `f-strings`, and useful list methods.
+* Reading from and writing to files.
+* Working with `context managers`.
+* Error handling using `try/except`.
+* Local and external modules.
+* Installing packages with `pip`.
+* Basic Python project structure.
+* Version control with Git and Git GUI tools.
+* Building, improving, optimizing, and maintaining Python programs.
+* Creating simple GUI applications with `FreeSimpleGUI`.
 
-8️⃣ DZIEŃ
-nauczyłem się:
-- co to context manager
-- jak wykorzystać context manager
-- kroki w jakich utworzyć utrzymujący sie program(improve, optimise, fix)
+---
 
-9️⃣ DZIEŃ
-nauczyłem się:
-- co to if/else
-- jak wykorzystwać warunki
-- co to słowniki
-- zdobyłem większą wiedzę na temat list slicing
+## 🛠️ Technologies
 
-🔟 DZIEŃ
-nauczyłem się:
-- co to error handling
-- jak wykorzystać try/except
-- rodzaje błędów w python
+* 🐍 Python
+* 🌿 Git
+* 🐙 GitHub
+* 💻 PyCharm
 
-1️⃣1️⃣ DZIEŃ
-nauczyłem się:
-- jak unikać powtarzającego się kodu
-- pisanie customowych funkcji
-- używanie funkcji
+---
 
-1️⃣2️⃣ DZIEŃ
-nauczyłem się:
-- tworzenie argumentów dla definicji funkcji
-- optymalizacja kodu
-- tworzenie i używanie wielu argumentów dla funkcji
+## 📂 Repository Structure
 
-1️⃣3️⃣ DZIEŃ
-nauczyłem się:
-- jak tworzyć domyślne argumenty
-- co to jest i jak używać docstrings
-- zrozumienie różnicy między argumentami default a non-default
+This repository contains:
 
-1️⃣4️⃣ DZIEŃ
-nauczyłem się:
-- co to są lokalne moduły
-- jak imporotować lokalne moduły
-- jak wygląda anatomia pythona
+* Learning exercises
+* Practice scripts
+* Python experiments
+* Git practice
 
-1️⃣5️⃣ DZIEŃ
-nauczyłem się:
-- rozumieć podstawowe moduły
-- jak rozpoznać wbduowane a zewnętrzne moduły
-- jak używać git z GUI
+---
 
-1️⃣6️⃣ DZIEŃ
-nauczyłem się:
-- instalować zewnętrzne moduły
-- używać FreeSimpleGUI
+## 🎯 Goal
+
+My goal is to become a Python Developer by consistently improving my programming skills, building projects, and learning industry best practices.
+
+---
+
+## 📈 Progress
+
+* ✅ Python Fundamentals
+* ✅ Git Basics
+* 🚧 More projects coming soon...
+
+---
+
+## ⭐ Thank You
+
+Thanks for visiting my repository!
+
+Feel free to explore the code and follow my progress as I continue learning Python.
