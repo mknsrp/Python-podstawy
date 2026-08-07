@@ -1,6 +1,1 @@
-umyc sie
-ogolic sie
-umyc okna
-nowe zadanie
-nowe zadanie
-jeszcze nowsze zadanie
+return to learn python
