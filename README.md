@@ -34,7 +34,7 @@ Throughout this journey, I learned:
 * Version control with Git and Git GUI tools.
 * Building, improving, optimizing, and maintaining Python programs.
 * Creating simple GUI applications with `FreeSimpleGUI`.
-
+* Creating simple Web applications with `Streamlit`.
 ---
 
 ## 🛠️ Technologies
