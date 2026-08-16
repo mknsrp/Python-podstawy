@@ -12,6 +12,8 @@ This repository documents my journey of learning **Python** and **Git** from the
 
 As I progress, each larger project will be moved to its own dedicated repository to keep everything organized and easy to navigate.
 
+[![Codewars](https://www.codewars.com/users/mknsrp/badges/large)](https://www.codewars.com/users/mknsrp)
+
 ---
 
 ## 🚀 What I Learned
