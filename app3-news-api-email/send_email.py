@@ -11,7 +11,7 @@ def send_email(message):
     receiver = "dowsha12345@gmail.com"
 
     msg = EmailMessage()
-    msg["Subject"] = "Newest articles"
+    msg["Subject"] = "Dzisiejsze wiadomości"
     msg["From"] = username
     msg["To"] = receiver
 
