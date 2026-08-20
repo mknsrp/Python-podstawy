@@ -8,7 +8,7 @@ url = ("https://newsapi.org/v2/everything?"
        f"q={topic}&"
        "from=2026-07-18&"
        "sortBy=publishedAt&"
-       "apiKey=d9f30835cc2348b9a1da8aa95ca30440&"
+       f"fapiKey={api_key}&"
        "language=pl")
 
 # Make request
