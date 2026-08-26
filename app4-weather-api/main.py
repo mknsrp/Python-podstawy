@@ -6,12 +6,13 @@ app = Flask(__name__)
 def home():
     return render_template("home.html")
 
-@app.route("/api/v1/<word>")
-def about(word):
-    definiton = word.upper()
+@app.route("/api/v1/<station>/<date>")
+def about(station, date):
+    temperature = 23
     result_dictionary = {
-        "definition": definiton,
-        "word": word
+        "station": station,
+        "date": date,
+        "temperature": temperature
     }
     return result_dictionary
 
